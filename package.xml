@@ -4,7 +4,7 @@
   <name>my_package</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="jones2nb@todo.todo">jones2nb</maintainer>
+  <maintainer email="jones2nb@dukes.jmu.edu">Nick Jones</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
